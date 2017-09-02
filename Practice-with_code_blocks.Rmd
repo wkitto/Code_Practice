@@ -50,6 +50,9 @@ Finally, insert your own code chunk and put write into it ONLY ONE line of code 
 * adds the previous two results together
 * then takes the square root of the result
 
+```{r}
+sqrt((3.1^2/25) + (5.2^2/36))
+```
 
 
 # Data Frames
