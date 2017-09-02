@@ -28,13 +28,16 @@ You should get -6.
 Next, insert write into the following the code needed to (25.5-20.2)/3:
 
 ```{r}
-
+(25.5-20.2)/3
 ```
 
 ## Practice Part c
 
 Next, insert your own code chunk below and write into it the code needed to produce the 12 squared plus 10 squared.
 
+```{r}
+12^2 + 10^2
+```
 
 
 
